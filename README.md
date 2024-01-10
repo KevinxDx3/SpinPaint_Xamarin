@@ -1,6 +1,6 @@
-#SpinPaint
+# SpinPaint
 
-#####Kevin Moreno
+##### Kevin Moreno
 
 Proyecto realizado en Visual Studio Community 2022
 
@@ -11,7 +11,7 @@ El proyecto esta realizado en base a Xamarin.Forms
 -En el repositorio se adjunta un video con el funcionamiento
 
 
-###Inicio
+### Inicio
 
 1. Clone el repositorio de GitHub:
 git clone https://github.com/KevinxDx3/SpinPaint_Xamarin.git
