@@ -1,4 +1,5 @@
-#SpinPaint 
+#SpinPaint
+
 #####Kevin Moreno
 
 Proyecto realizado en Visual Studio Community 2022
